@@ -1,4 +1,4 @@
-﻿# Lab: Multimeter Basics
+# Lab: Multimeter Basics
 
 ## Goal
 Practice correct measurement of voltage, current, and resistance without damaging the meter or circuit.
@@ -6,7 +6,7 @@ Practice correct measurement of voltage, current, and resistance without damagin
 ## Setup
 - Multimeter
 - 1x LED
-- 1x resistor (330Î© or 220Î©)
+- 1x resistor (330ohm or 220ohm)
 - Breadboard + jumper wires
 - Power source (3.3V or 5V)
 
@@ -16,14 +16,14 @@ Practice correct measurement of voltage, current, and resistance without damagin
 3. Measure voltage across the resistor (V mode, parallel).
 4. Calculate current I = V_R / R.
 5. (Optional) Measure current in series (I mode).
-6. Power off. Measure resistor value in Î© mode.
+6. Power off. Measure resistor value in ohm mode.
 
 ## Observations / Results
 - LED forward voltage: ____ V
 - Resistor voltage: ____ V
 - Calculated current: ____ mA
 - Measured current (optional): ____ mA
-- Measured resistance: ____ Î©
+- Measured resistance: ____ ohm
 
 ## Common Mistakes
 - Measuring current in parallel (blows fuse)
@@ -33,3 +33,4 @@ Practice correct measurement of voltage, current, and resistance without damagin
 ## Conclusion
 - What changed between calculated vs measured current?
 - What did you learn about safe meter usage?
+
