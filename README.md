@@ -1,4 +1,4 @@
-﻿# Learning Lab (Hub)
+# Learning Lab (Hub)
 
 A structured learning hub for building practical skills across:
 Electronics, C, Embedded C, C++, Rust, Java, Spring, Python, Linux, SQL/Databases.
@@ -14,10 +14,10 @@ Electronics, C, Embedded C, C++, Rust, Java, Spring, Python, Linux, SQL/Database
 
 ## Learning workflow (always the same)
 
-1. **Lesson** â†’ `notes/`
-2. **Lab** â†’ `labs/` (proof)
-3. **Mini Project** â†’ `mini-projects/`
-4. **Log** â†’ `LEARNING_LOG.md`
+1. **Lesson** -> `notes/`
+2. **Lab** -> `labs/` (proof)
+3. **Mini Project** -> `mini-projects/`
+4. **Log** -> `LEARNING_LOG.md`
 
 ## Tracks
 
@@ -41,3 +41,5 @@ See `standards/`:
 - Commit convention
 - Style guides
 - Review checklists
+
+
